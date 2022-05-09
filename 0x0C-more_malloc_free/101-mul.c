@@ -1,4 +1,3 @@
-
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
@@ -134,4 +133,3 @@ int main(int argc, char *argv[])
 		multiply(n1, n2);
 	return (0);
 }
-
