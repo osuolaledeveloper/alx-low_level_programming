@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
  * flip_bits - returns the number of bits I need to flip to get from one number
